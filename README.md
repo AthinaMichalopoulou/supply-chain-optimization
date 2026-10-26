@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33970372/README.md)
-# supply-chain-optimization
+
 # Production, Distribution and Inventory Optimization
 
 An optimization study of production and delivery planning for a steel producer with three factories and eight customer locations over four planning periods. The factories produce long steel bars, cut them into different finished lengths, and deliver customer orders using a limited vehicle fleet.
