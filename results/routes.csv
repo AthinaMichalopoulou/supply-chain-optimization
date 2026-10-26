@@ -1,0 +1,21 @@
+scenario,period,factory,route,distance_km,travel_cost_eur,fixed_dispatch_eur,total_cost_eur
+direct_delivery,1,IJmuiden,IJmuiden → Boenen → Schwerte → Iserlohn → Hagen → Dortmund → IJmuiden,636,1908,130,2038
+direct_delivery,1,Segal,Segal → Neuss → Bochum → Gelsenkirchen → Segal,413,1239,150,1389
+direct_delivery,2,IJmuiden,IJmuiden → Boenen → Schwerte → Iserlohn → Gelsenkirchen → IJmuiden,629,1887,130,2017
+direct_delivery,2,Segal,Segal → Neuss → Segal,280,840,150,990
+direct_delivery,2,SouthWales,SouthWales → Hagen → Dortmund → Bochum → SouthWales,1811,5433,100,5533
+direct_delivery,3,IJmuiden,IJmuiden → Gelsenkirchen → Iserlohn → Schwerte → Boenen → IJmuiden,629,1887,130,2017
+direct_delivery,3,Segal,Segal → Neuss → Segal,280,840,150,990
+direct_delivery,3,SouthWales,SouthWales → Bochum → Dortmund → Hagen → SouthWales,1811,5433,100,5533
+direct_delivery,4,IJmuiden,IJmuiden → Boenen → Schwerte → Iserlohn → Gelsenkirchen → IJmuiden,629,1887,130,2017
+direct_delivery,4,Segal,Segal → Neuss → Segal,280,840,150,990
+direct_delivery,4,SouthWales,SouthWales → Bochum → Dortmund → Hagen → SouthWales,1811,5433,100,5533
+customer_inventory,1,IJmuiden,IJmuiden → Gelsenkirchen → Boenen → IJmuiden,572,1716,130,1846
+customer_inventory,1,Segal,Segal → Neuss → Segal,280,840,150,990
+customer_inventory,1,SouthWales,SouthWales → Hagen → Iserlohn → Schwerte → Dortmund → Bochum → SouthWales,1840,5520,100,5620
+customer_inventory,2,IJmuiden,IJmuiden → Dortmund → Schwerte → Iserlohn → Bochum → IJmuiden,597,1791,130,1921
+customer_inventory,2,Segal,Segal → Hagen → Segal,412,1236,150,1386
+customer_inventory,3,IJmuiden,IJmuiden → Gelsenkirchen → Dortmund → Hagen → Iserlohn → Schwerte → IJmuiden,603,1809,130,1939
+customer_inventory,3,Segal,Segal → Neuss → Segal,280,840,150,990
+customer_inventory,4,IJmuiden,IJmuiden → Boenen → Schwerte → Dortmund → Bochum → Gelsenkirchen → IJmuiden,603,1809,130,1939
+customer_inventory,4,Segal,Segal → Hagen → Iserlohn → Neuss → Segal,451,1353,150,1503
