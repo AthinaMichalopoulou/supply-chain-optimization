@@ -1,0 +1,15 @@
+period,customer,ending_inventory_tonnes,warehouse_capacity_tonnes
+1,Bochum,0.1923,10
+1,Boenen,4.1705,7
+1,Dortmund,0.7932,12
+1,Gelsenkirchen,2.9807,10
+1,Neuss,6.1777,8
+2,Bochum,1.3341,10
+2,Boenen,2.3677,7
+2,Dortmund,0.9615,12
+2,Gelsenkirchen,1.262,10
+2,Hagen,3.4254,12
+2,Neuss,1.0577,8
+3,Hagen,1.3701,12
+3,Iserlohn,0.3606,9
+3,Neuss,5.5887,8
